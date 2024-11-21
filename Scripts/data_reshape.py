@@ -2,7 +2,7 @@ import cv2
 import pupil_apriltags as apriltag
 import os
 
-path='D:\\CalibPaper\\data\\image_last\\'
+path='folder/contains/stable/frames'
 if not os.path.exists(path+"star16"):
     os.mkdir(path+"star16")
 for i in range(8):

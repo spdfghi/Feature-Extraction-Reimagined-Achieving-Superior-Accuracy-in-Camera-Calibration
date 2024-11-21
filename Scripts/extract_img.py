@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 import os
 
-video_path=".bag/file/captured/by/realsense"
+video_path="folder/contains/.bag/file/captured/by/realsense"
 
 pipeline = rs.pipeline()
 config = rs.config()
