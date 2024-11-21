@@ -1,0 +1,15 @@
+resolution : 1280 x 720
+horizontal_fov : 70.162660692243
+vertical_fov : 43.448830663167
+
+num_localized_imagesets : 27
+num_total_imagesets : 27
+
+reprojection_error_count : 6342
+reprojection_error_median : 0.055190571008091
+reprojection_error_average : 0.06661450207533
+reprojection_error_maximum : 0.41793325212348
+median_kl_divergence : 2.1389672837385
+
+reprojection_error_histogram_visualization_half_extent_in_pixels : 0.20000000298023
+maximum_error_visualization_maximum_error_in_pixels : 0.5

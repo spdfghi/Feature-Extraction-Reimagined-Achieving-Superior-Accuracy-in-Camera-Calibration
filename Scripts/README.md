@@ -1,0 +1,1 @@
+*analytical_calc.nb* is a mathematica notebook used for driving a defocus model. The others are scripts generated, mostly by gpt, which I used to generate multi-channel image used for feature extraction. You can build you own(recommend).

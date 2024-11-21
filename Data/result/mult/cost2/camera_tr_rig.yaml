@@ -1,0 +1,11 @@
+# Each pose gives the B_tr_A transformation (i.e., A to B with right-multiplication), where the spaces A and B are defined by the filename. Quaternions are written as used by the Eigen library.
+pose_count: 1
+poses:
+  - index: 0
+    tx: -2.4819534962967e-16
+    ty: 4.5916139681489e-16
+    tz: 3.3092713283956e-17
+    qx: 0
+    qy: 0
+    qz: 0
+    qw: 1
